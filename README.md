@@ -6,7 +6,7 @@ Simple CRUD app with CBV built using Django and Bootstrap meant to help with deb
 Install the following prerequisites:
 
 1. [Python 3.10.4 or higher](https://www.python.org/downloads/)
-2. [Visual Studio Code](https://code.visualstudio.com/download)
+2. [Visual Studio Code](https://code.visualstudio.com/download)git add
 
 ## Installation
 
@@ -76,8 +76,8 @@ Go to http://127.0.0.1:8000/ to view the application.
 ## Main Page
 ![Screenshot2](Screenshot2.png)
 ## Studet Details Pop Up window
-![Screenshot3](Screenshot3-main.png)
+![Screenshot3](Screenshot3.png)
 ## Update Page
-![Screenshot4](Screenshot4-main.png)
+![Screenshot4](Screenshot4.png)
 ## Delete Pop Up Window
-![Screenshot5](Screenshot5-main.png)
+![Screenshot5](Screenshot5.png)
